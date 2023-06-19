@@ -12,14 +12,16 @@ I am not responsible for the consequences of applying these ideas to your house.
 ## Core Goals
 This house should:
 
-1. Be as future-proof as possible
-    1. baby/child/family friendly and as safe as possible for all stages of life, no after-build customization needed
-        - should be able to fit a family of 5 with in-laws (i.e., +4), comfortably
-2. Minimize:
+1. be as ___ as possible
+    1. future-proof
+    2. safe
+        - baby/child/family friendly and as safe as possible for all stages of life, no after-build customization needed should be able to fit a family of 5 with in-laws (i.e., +4), comfortably
+2. minimize
     1. maintenance
     2. recurring cost
     3. bugs (ex., ultra clean garage, no cardboard or unused/unneeded items anywhere, all furniture comes off ground or has minimal contact with ground)
-3. Maximize:
+	4. clutter / "busy" items and decor. why have to 2 things to perform 2 tasks when you could integrate them together and just have 1 thing performing 2 tasks. ex. tesla solar roof vs solar panels and a roof. or an integrated doorstop/door hinge instead of having them separate
+3. maximize
     1. beauty
 4. as natural as possible. all natural materials where possible, nothing that is toxic
 5. Not cut corners to save on cost or ease of implementation
@@ -29,17 +31,20 @@ This house should:
     - optimized energy cost
     - best possible insulation
     - humidity control to help prevent mold
-    - 1 story house for less AC and maintenance cost
+    - 1 story house for less AC and maintenance cost `2.2` + `1.2`
 
 
-Note: to meet many of these goals, this would most likely need to be a new build
+Note: to meet these goals, this would need to be a new build
 
 ---
 
 ### House
 #### General
-- doorstops on hinges
-- `1.1` farmhouse shutters (not blinds)
+- doorstops on hinges. [ex.](https://en.wikipedia.org/wiki/Doorstop#/media/File:Waterson-door-stop.jpg)
+    - `2.4`
+- Wooden [window shutters](https://en.wikipedia.org/wiki/Window_shutter)
+    - `1.2` + `2.4` + ?`4.0`?
+    - (in place of [windows blinds](https://en.wikipedia.org/wiki/Window_blind))
 
 ##### Flooring
 - `4.0` Either:
@@ -49,12 +54,12 @@ Note: to meet many of these goals, this would most likely need to be a new build
 - dedicated server room
     - with server rack
     - ultra air conditioned
-- make them seal the grout?
 - `5.0` plenty of ethernet plugs and power plugs on ground
-- all electric (induction stovetop, no lng)
+- all electric. this includes:
+    - an induction stove. no natural gas.
+        - `1.2`
 
 #### Kitchen
-- fridge flush with or built into cabinets?
 - `2.1` - no handles on cabinets
 
 #### Office
@@ -67,7 +72,6 @@ Note: to meet many of these goals, this would most likely need to be a new build
 - sink in garage
 - drain on floor of garage
 - vent hood in garage?
-- epoxy or no?
 
 ### Yard
 - Enough land that we have neighbors but they don't live 10 feet away. we want neighbors but we don't want them to be too close
@@ -88,9 +92,10 @@ Note: to meet many of these goals, this would most likely need to be a new build
 - `2.2` ag or religious exemption?
 
 #### Power
-- [Tesla Solar Roof](https://www.tesla.com/solarroof)
+- `2.2` + `2.4` [Tesla Solar Roof](https://www.tesla.com/solarroof)
 - `2.1` freeze proof house (i.e., nothing needs to be done if there is an extended freeze coming)
 - `2.1` `2.2` House-wide [water softening](https://en.wikipedia.org/wiki/Water_softening) + filtration system 
+    - if we have sprinklers/outdoor faucets, should they be included here? I'm thinking no, only filtration for inside the house. see: https://en.wikipedia.org/wiki/Water_softening#Environmental_impact
 - screened in outdoor patio (w/ fridge + grill + sink built into counter? do these counteract `2.2` and `2.1`?)
 - `4.0` no plastics or PVC for plumbing (if possible)
     - maybe copper?
@@ -104,3 +109,10 @@ Note: to meet many of these goals, this would most likely need to be a new build
 Read/Learn More:
 - https://www.youtube.com/@buildshow
 - https://www.youtube.com/@HoustonWindowExperts
+
+
+Questions:
+- seal the grout to prevent water damage? or does that not matter? in theory this would violate `4.0`
+- fridge flush with or built into cabinets?
+    - not sure I fully agree with this. Might be easier to clean if this is not the case and this may break rule `2.3`(even though this would look better)
+- epoxy in garage or no? would definitely be easier to clean, etc. but definitely breaks `4.0`
