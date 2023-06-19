@@ -64,6 +64,9 @@ Note: to meet these goals, this would need to be a new build
 
 #### Office
 
+#### Bathroom
+- Walk in shower
+    - should not have step up or down to get in. Should be a lot like the one from the build show YT vid
 
 ### Garage
 - regular staircase to attic (like open a door, walk up stairs), not pull down ladder
@@ -116,3 +119,4 @@ Questions:
 - fridge flush with or built into cabinets?
     - not sure I fully agree with this. Might be easier to clean if this is not the case and this may break rule `2.3`(even though this would look better)
 - epoxy in garage or no? would definitely be easier to clean, etc. but definitely breaks `4.0`
+- gutters? I feel like that kinda breaks the rule of only whats needed, nothing extra just for sake of it
