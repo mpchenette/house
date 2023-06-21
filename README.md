@@ -12,7 +12,35 @@ These are the drivers behind the ideas listed below. Each idea is tied to one of
 <b>
 the house, after construction, will...
 
-1. be as ___ as possible
+<ol>
+  <!-- 1 -->
+  <li>be as ___ as possible</li>
+  <ol>
+	<li id="future-proof">future-proof</li>
+  </ol>
+
+  <!-- 2 -->
+  <li>minimize</li>
+  <ol>
+	<li id="maintenance">maintenance</li>
+	<li id="cost">recurring costs</li>
+	<li id="bugs">bugs</li>
+	<li id="clutter">clutter / "busy" items and decor</li>
+	<li id="synthetic">synthetic and man-made building materials</li>
+  </ol>
+
+  <!-- 3 -->
+  <li>maximize</li>
+  <ol>
+	<li id="safety">safety</li>
+	<li id="beauty">beauty</li>
+  </ol>
+
+  <!-- 4 -->
+  <li id="cc">not have cut corners to save on cost or ease of implementation during construction</li>
+</ol>
+
+<!-- 1. be as ___ as possible
     1. future-proof
 2. minimize
     1. maintenance
@@ -23,33 +51,30 @@ the house, after construction, will...
 3. maximize
     1. safety
     2. beauty
-4. not have cut corners to save on cost or ease of implementation during construction
+4. not have cut corners to save on cost or ease of implementation during construction -->
 
 </b>
 
-### Descriptions / Reasoning
-`1.1` when and where possible, use things that are not tightly integrated into the household but are modular and can be replaced as newer versions come out; also easily allowing for expansion where it is deemed likely that it may be needed in the future and where it will not require a complete refactoring of a section of the house  
-`2.2` ex. power/water/taxes/insurance/etc. This includes preparing for and preventing the need for all types of insurance (flood, fire, homeowners, etc.); optimized energy cost; (ex. minimize energy consumption with things like manual mower (preferring manual labor over energy spend), solar, buy media, ...)  
-`3.1` baby/child/family friendly and as safe as possible for all stages of life, no after-build customization needed should be able to fit a family of 5 with in-laws (i.e., +4), comfortably  
-`2.4` why have to 2 things to perform 2 tasks when you could integrate them together and just have 1 thing performing 2 tasks. ex. tesla solar roof vs solar panels and a roof. or an integrated doorstop/door hinge instead of having them separate  
-`2.5` The building materials should be as natural as possible. all natural materials where possible, nothing that is toxic  
+### Descriptions
+[`1.1`](#future-proof) - when and where possible, use things that are not tightly integrated into the household but are modular and can be replaced as newer versions come out; also easily allowing for expansion where it is deemed likely that it may be needed in the future and where it will not require a complete refactoring of a section of the house  
+[`2.1`](#maintenance) makes cleaning easier too
+[`2.2`](#cost) - ex. power/water/taxes/insurance/etc. This includes preparing for and preventing the need for all types of insurance (flood, fire, homeowners, etc.); optimized energy cost; (ex. minimize energy consumption with things like manual mower (preferring manual labor over energy spend), solar, buy media, ...)  
+[`3.1`](#safety) - baby/child/family friendly and as safe as possible for all stages of life, no after-build customization needed should be able to fit a family of 5 with in-laws (i.e., +4), comfortably  
+[`2.4`](#clutter) - why have to 2 things to perform 2 tasks when you could integrate them together and just have 1 thing performing 2 tasks. ex. tesla solar roof vs solar panels and a roof. or an integrated doorstop/door hinge instead of having them separate  
+[`2.5`](#synthetic) - The building materials should be as natural as possible. all natural materials where possible, nothing that is toxic  
 
 ## Ideas
 ### House
 #### General
-- all furniture comes off ground or has minimal contact with ground `1.3` + `makes cleaning easier too`
-- 1 story house for less AC and maintenance cost
-    - `2.1` + `2.2`
-- no fireplace (none needed in Texas)
-    - `2.1`, `2.2`
-- doorstops on hinges. [ex.](https://en.wikipedia.org/wiki/Doorstop#/media/File:Waterson-door-stop.jpg)
-    - `2.4`
-- Wooden [window shutters](https://en.wikipedia.org/wiki/Window_shutter)
-    - `1.2` + `2.4` + ?`4.0`?
-    - (in place of [windows blinds](https://en.wikipedia.org/wiki/Window_blind))
+- one story house - [`2.1`](#maintenance) + [`2.2`](#cost)
+- furniture has minimal ground contact - [`2.1`](#maintenance) + [`2.3`](#bugs)
+- no fireplace - [`2.1`](#maintenance) + [`2.2`](#cost)
+    - none needed in Texas
+- wooden [window shutters](https://en.wikipedia.org/wiki/Window_shutter) - [`3.1`](#safety) + [`2.4`](#clutter) + ?[`2.5`](#synthetic)?
+    - in place of [windows blinds](https://en.wikipedia.org/wiki/Window_blind)
 
 ##### Flooring
-- `4.0` Either:
+- [`2.5`](#synthetic) Either:
     - natural, untreated, unfinished wood (i.e., something without chemicals) or
 	    - https://en.wikipedia.org/wiki/Wood_preservation#Charring
 		- https://en.wikipedia.org/wiki/Yakisugi
@@ -58,22 +83,24 @@ the house, after construction, will...
 - dedicated server room
     - with server rack
     - ultra air conditioned
-- `5.0` at least one ethernet plug in each room
-- `5.0` power outlets in the floor where it's relevant (living room)
-- `5.0` cieling fan in each room
-- screened in back porcg
+- [`4.0`](#cc) at least one ethernet plug in each room
+- [`4.0`](#cc) power outlets in the floor where it's relevant (living room)
+- [`4.0`](#cc) ceiling fan in each room
+- screened in back porch
 
 #### Kitchen
 - No handles on cabinets - `2.1`
 - all electric. this includes:
-    - an induction stove. no natural gas.
-        - `1.2`
+    - an induction stove, no natural gas - `1.2`
 
 #### Office
 
 #### Bathroom
 - Walk in shower
     - should not have step up or down to get in. Should be a lot like the one from the build show YT vid
+
+#### Miscellaneous
+- [doorstops on hinges](https://en.wikipedia.org/wiki/Doorstop#/media/File:Waterson-door-stop.jpg) - [`2.4`](#clutter)
 
 ### Workshop
 - is essentially another room in the house but is MUCH bigger and has the look and feel of a 3 car garage (ex. epoxied floor, ...)
@@ -122,7 +149,8 @@ the house, after construction, will...
 - `2.2` [PSBD](https://en.wikipedia.org/wiki/Passive_solar_building_design) may be worth looking into
 - best possible insulation
     - Also see: `2.2` + `2.3` - https://www.youtube.com/watch?v=ddjjwY6zzG8 + `4.0` I think
-Read/Learn More:
+- https://en.wikipedia.org/wiki/Hurricane-proof_building
+### Read/Learn More:
 - https://www.youtube.com/@buildshow
 - https://www.youtube.com/@HoustonWindowExperts
 
